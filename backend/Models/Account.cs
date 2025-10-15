@@ -7,3 +7,4 @@ namespace BankingSystem.Models
         public decimal Balance { get; set; }
     }
 }
+
